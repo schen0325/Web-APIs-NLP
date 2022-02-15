@@ -11,7 +11,7 @@
 
 ### Problem Statement
 
-This project seeks to build and train a model to predict the correct subreddit origin of a given post by utilizing text collected the two subreddits. The two subreddits chosen for this project are DC comics and Marvel. Equal amounts of submissions were collected from each subreddit, using the submission title to train and test the models.  
+This project seeks to build and train a model to predict the correct subreddit origin of a given post by utilizing text collected from the two subreddits. The two subreddits chosen for this project are DC comics and Marvel. Equal amounts of submissions were collected from each subreddit, using the submission title to train and test the models.  
 
 ### Data Import and Cleaning
 
